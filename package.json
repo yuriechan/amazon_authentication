@@ -8,5 +8,8 @@
   },
   "repository": "git@github.com:yuriechan/amazon_authentication.git",
   "author": "Yurie <cutecupcakeandcute@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
